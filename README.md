@@ -5,8 +5,7 @@ Este projeto é uma solução proprietária de Engenharia de Dados e Business In
 O sistema simula o monitoramento de uma malha ferroviária internacional (Brasil-Canadá), focando não apenas na visualização, mas na lógica de segurança, estruturação de dados e detecção de anomalias operacionais.
 
 🎯 O Desafio de Negócio
-Em grandes operações ferroviárias, a segurança e a eficiência dependem da capacidade de cruzar dados de diferentes fontes (ERPs, Sensores, Planilhas de Manutenção).
-O objetivo deste projeto foi eliminar silos de informação e criar uma camada de inteligência capaz de:
+Em grandes operações ferroviárias, a segurança e a eficiência dependem da capacidade de cruzar dados de diferentes fontes (ERPs, Sensores, Planilhas de Manutenção). O objetivo deste projeto foi eliminar silos de informação e criar uma camada de inteligência capaz de:
 
 Centralizar dados dispersos.
 
